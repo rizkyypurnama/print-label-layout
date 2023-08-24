@@ -82,11 +82,11 @@
         margin-top: 7px;
     }
     .ket2{
-        margin-left: 25px;
+        margin-left: 30px;
         margin-top: 7px;
     }
     .ket3{
-        margin-left: 25px;
+        margin-left: 30px;
         margin-top: 7px;
     }
     .wrapper-address{
@@ -107,14 +107,14 @@
     .receiver{
         margin-top: 5px;
         font-family: inter;
-        font-size: 12px;
-        width: 290px;
+        font-size: 13px;
+        width: 280px;
         height: 90px;
     }
     .sender{
         margin-top: 5px;
         font-family: inter;
-        font-size: 12px;
+        font-size: 13px;
         width: 195px;
     }
     .wrapper-payment{
