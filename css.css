@@ -107,14 +107,14 @@
     .receiver{
         margin-top: 5px;
         font-family: inter;
-        font-size: 13.5px;
+        font-size: 12px;
         width: 290px;
         height: 90px;
     }
     .sender{
         margin-top: 5px;
         font-family: inter;
-        font-size: 13.5px;
+        font-size: 12px;
         width: 195px;
     }
     .wrapper-payment{
