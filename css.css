@@ -21,14 +21,13 @@
     }
     .invoice{
         font-family: inter;
-        font-size: 13.5px;
+        font-size: 14px;
         margin-top: 2px;
-        margin-bottom: 2px;
         margin-right: 10px;
     }
     .invoice2{
         font-family: inter;
-        font-size: 12px;
+        font-size: 11.5px;
         margin-top: 6px;
         margin-bottom: 2px;
         margin-right: 10px;
@@ -45,7 +44,7 @@
     }
     .resi {
     font-family: inter;
-    font-size: 13.5px;
+    font-size: 14px;
     margin-top: 5px;
     margin-left: 5px;
     display: flex;
@@ -107,15 +106,15 @@
     .receiver{
         margin-top: 5px;
         font-family: inter;
-        font-size: 12px;
+        font-size: 13.5px;
         width: 290px;
-        height: 90px;
+        height: 85px;
     }
     .sender{
         margin-top: 5px;
         font-family: inter;
-        font-size: 12px;
-        width: 195px;
+        font-size: 13.5px;
+        width: 205px;
     }
     .wrapper-payment{
         justify-content: space-between;
@@ -177,32 +176,32 @@
         border-color: rgb(0, 0, 0);
     }
     .table{
-        font-size: 12px;
+        font-size: 11.5px;
         font-family: inter;
         display: flex;
         margin-left: 10px;
-        width: 500px;
+        width: 480px;
         margin-top: 5px;
         height: 30px;
     }
     .table-prod{
         width: 230px;
-        height: 30px;
+        height: 20px;
     }
     .table-sku{
         width: 100px;
-        height: 30px;
+        height: 20px;
     }
     .table-var{
         width: 110px;
-        height: 30px;
+        height: 20px;
     }
     .table-jumlah{
         width: 50px;
-        height: 30px;
+        height: 20px;
     }
     .table-jumlah1{
         margin-left: 7px;
-        width: 50px;
-        height: 30px;
+        width: 40px;
+        height: 20px;
     }
